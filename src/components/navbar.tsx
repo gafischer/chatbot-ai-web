@@ -17,7 +17,7 @@ const Navbar: React.FC = () => {
       <div>
         <Link href="/">
           <Button variant="ghost" className="font-semibold">
-            Uplaod
+            Upload
           </Button>
         </Link>
         <Link href="/chat">
